@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: idilham.github.io
+Token: 42ea1a56a0f338cf14c5e79e36f16f06b2cceb1b7d29e9d5aa03f30ab8ec76c8
